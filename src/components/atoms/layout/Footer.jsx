@@ -9,7 +9,7 @@ const SFooter = styled.footer`
   color: #fff;
   text-align: center;
   padding: 8px 0;
-  position: fix;
+  position: fixed;
   bottom: 0;
   width: 100%;
 `;
